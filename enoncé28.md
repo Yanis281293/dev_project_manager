@@ -15,7 +15,7 @@ Créer un modèle `Projet.js` avec des champs cohérents pour lister des projets
 Assurez-vous d'utiliser une architecture de déstructuration (pages, layout, et partials).
 
 - **Architecture**: Suivre une architecture MVC (Modèle-Vue-Contrôleur).
-
+ 
 
 ## Livrables 📦
 - Code source de l'application.- Versionnage sur GitHub.- Envoyer l'URL du dépôt GitHub à gabistam@gmail.com.
